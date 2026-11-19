@@ -20,6 +20,12 @@ Welcome to the personal portfolio of **Harsh Kuwar Swami**, an aspiring Frontend
 
 Every piece of information presented across this website is strictly fact-checked and verified from official educational credentials, real GitHub repositories, and verified LinkedIn records.
 
+### Hero Preview
+
+<p align="center">
+  <img src="assets/portfolio-hero.png" alt="Screenshot of the portfolio homepage hero section" width="900" />
+</p>
+
 ### Full-Page Preview
 
 <details>
@@ -174,6 +180,7 @@ Every piece of information presented across this website is strictly fact-checke
 │   ├── harsh-profile.png      # Original high-res verified portrait
 │   └── favicon.svg
 ├── assets/
+│   ├── portfolio-hero.png    # Portfolio homepage hero screenshot
 │   └── portfolio-preview.png  # Full-page portfolio screenshot
 ├── src/
 │   ├── assets/                # Local project assets
