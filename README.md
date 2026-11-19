@@ -5,7 +5,7 @@
 **Aspiring Frontend Developer · Web Developer · MCA (Information Technology)**  
 *Aligarh, Uttar Pradesh, India*
 
-[![Live Demo](https://img.shields.io/badge/Live_Portfolio-Website-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://harshkuwarswami.github.io/harsh-frontend-portfolio/)
+[![Live Demo](https://img.shields.io/badge/Live_Portfolio-Website-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://harsh-portfolio-build.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-harshkuwarswami-181717?style=for-the-badge&logo=github)](https://github.com/harshkuwarswami)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/Harsh-Kuwar-Swami-7a8848264/)
 [![Email](https://img.shields.io/badge/Email-hkswami4%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hkswami4@gmail.com)
